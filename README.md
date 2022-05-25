@@ -4,7 +4,6 @@
 
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Estudante de Análise e Desenvolvimento de sistemas</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> Gosto de tecnologia, matemática e música</em></p>
 
 
 
